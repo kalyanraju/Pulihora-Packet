@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Sniffer">
+</Property><Property Name="Solution File" Value="E:\Program Files\PacketX\Examples\Sniffer\VB71\Sniffer.sln">
+</Property><Property Name="Date" Value="18 February 2011">
+</Property><Property Name="Time" Value="AM 00:15">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Sniffer.sln" Description="File successfully backed up as E:\Program Files\PacketX\Examples\Sniffer\VB71\Backup\Sniffer.sln">
+</Event><Event ErrorLevel="0" Project="Sniffer" Source="Sniffer.vbproj" Description="Project file successfully backed up as E:\Program Files\PacketX\Examples\Sniffer\VB71\Backup\Sniffer.vbproj">
+</Event><Event ErrorLevel="0" Project="Sniffer" Source="AssemblyInfo.vb" Description="File successfully backed up as E:\Program Files\PacketX\Examples\Sniffer\VB71\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Sniffer" Source="Sniffer.NET.vb" Description="File successfully backed up as E:\Program Files\PacketX\Examples\Sniffer\VB71\Backup\Sniffer.NET.vb">
+</Event><Event ErrorLevel="0" Project="Sniffer" Source="Sniffer.NET.resx" Description="File successfully backed up as E:\Program Files\PacketX\Examples\Sniffer\VB71\Backup\Sniffer.NET.resx">
+</Event><Event ErrorLevel="0" Project="Sniffer" Source="Sniffer.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Sniffer" Source="Sniffer.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Sniffer.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Sniffer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Sniffer" Source="Sniffer.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
